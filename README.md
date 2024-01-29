@@ -6,7 +6,6 @@ Full stack web developer
 
 I' ve been learning to code for 11 years, since I was doing my computer science undergraduate in 2013. I started with Data structure and Algorithms, HTML, CSS, and Javascript but have really found a passion for full stack development using python and Node js for Backend, Javascript - React for fron end and Postgresql for databases. I'm really an efficient leaner and adapting to the new coming techs as technology evolves.
 
-* 🌍  I'm based in Rwanda
 * ✉️  You can contact me at [shemavalentin@gmail.com](mailto:shemavalentin@gmail.com)
 * 🧠  I'm learning Machine Learning & AI
 * 🤝  I'm open to collaborating on Any project using technologies of my knowledge and other else that I can contribute in.
