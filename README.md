@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack web developer
 ------------------------
 
-I' ve been learning to code for 11 years, since I was doing my computer science undergraduate in 2013. I started with Data structure and Algorithms, HTML, CSS, and Javascript but have really found a passion for full stack development using python and Node js for Backend, Javascript - React for front end and Postgresql for databases. I'm really an efficient leaner and adapting to the new coming techs as technology evolves.
+I' ve been learning to code for 11 years, since I was doing my computer science undergraduate in 2013. I started with Data structure and Algorithms, HTML, CSS, and Javascript but have really found a passion for full stack development using python and Node js for Backend, Javascript - React and related technologies like Redux Thunk, Redux Sagas and TypeScript for Front End, Firebase and Postgresql for databases. I'm really an efficient leaner and adapting to the new coming techs as technology evolves.
 
 I'm even open to contribute to open source projects! So let's connect and have fun in coding!!
 
