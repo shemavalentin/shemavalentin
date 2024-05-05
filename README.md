@@ -8,7 +8,6 @@ I' ve been learning to code for 11 years, since I was doing my computer science 
 
 I'm even open to contribute to open source projects! So let's connect and have fun in coding!!
 
-* 🌍  I'm based in EastAfrica
 * ✉️  You can contact me at [shemavalentin@gmail.com](mailto:shemavalentin@gmail.com)
 * 🧠  I'm learning Machine Learning & AI
 * 🤝  I'm open to collaborating on Any project using technologies of my knowledge and other else that I can contribute in.
