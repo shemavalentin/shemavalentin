@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SHEMA Valentin
+Hello everyone ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SHEMA Valentin
 ======================================================================================================================================
 
 Software Engineer 
 -----------------
 
-I' ve been learning to code for 11 years, since I was doing my computer science undergraduate in 2013. I started with Data structure and Algorithms, HTML, CSS, and Javascript but have really found a passion for full stack development using python and Node js for Backend, Javascript - React and related technologies like Redux Thunk, Redux Sagas and TypeScript for Front End, Firebase and Postgresql for databases. I'm really an efficient leaner and adapting to the new coming techs as technology evolves.
+I' ve been learning to code and working on real world projects since 7 years ago. I started with Data structure and Algorithms, HTML, CSS, and Javascript but have really found a passion for full stack development using Node js for Backend, Javascript - React for front end and related technologies like Redux Thunk, Redux Sagas and TypeScript, Firebase and Postgresql for databases. I'm really an efficient leaner and adapting to the new coming techs as technology evolves.
 
 I'm even open to contribute to open source projects! So let's connect and have fun in coding!!
 
