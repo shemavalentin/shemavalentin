@@ -4,7 +4,7 @@ Hello everyone ![](https://user-images.githubusercontent.com/18350557/176309783-
 Software Engineer 
 -----------------
 
-I' ve been learning to code and working on real world projects since 7 years ago. I started with Data structure and Algorithms, HTML, CSS, and Javascript but have really found a passion for full stack development using Node js for Backend, Javascript - React for front end and related technologies like Redux Thunk, Redux Sagas and TypeScript, Firebase and Postgresql for databases. I'm really an efficient leaner and adapting to the new coming techs as technology evolves.
+I' ve been learning to code and working on real world projects since 7 years ago. I started with Data structure and Algorithms, HTML, CSS, and Javascript but have really found a passion for full stack development using Node.js for Backend with GraphQl/Graphql Apollo for API Qurries and Mutations but also expertise in REST and RESTfull API. For the front end, I'm proficient in Javascript and React with related cutting edge technologies like Redux Thunk, Redux Sagas and TypeScript, while for database I'm a master of SQL databases like Postgresql and MongoDB for NoSQL. I'm really an efficient leaner and adapting to the new coming techs as technology evolves.
 
 I'm even open to contribute to open source projects! So let's connect and have fun in coding!!
 
