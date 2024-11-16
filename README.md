@@ -1,12 +1,31 @@
 Hello everyone ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SHEMA Valentin
 ======================================================================================================================================
 
-Software Engineer 
------------------
+Software Engineer | Machine Learning Enthusiast | System Architect
 
-I' ve been learning to code and working on real world projects since 7 years ago. I started with Data structure and Algorithms, HTML, CSS, and Javascript but have really found a passion for full stack development using Node.js for Backend with GraphQl/Graphql Apollo for API Qurries and Mutations but also expertise in REST and RESTfull API. For the front end, I'm proficient in Javascript and React with related cutting edge technologies like Redux Thunk, Redux Sagas and TypeScript, while for database I'm a master of SQL databases like Postgresql and MongoDB for NoSQL. I'm really an efficient leaner and adapting to the new coming techs as technology evolves.
+Dynamic and detail-oriented software engineer with a robust skill set spanning full-stack development, advanced JavaScript, and cutting-edge machine learning. Proficient in building scalable, user-centric applications and delivering impactful solutions across diverse domains.
 
-I'm even open to contribute to open source projects! So let's connect and have fun in coding!!
+Key expertise includes:
+
+Front-End & Mobile Development: Mastery in React.js and React Native for responsive, cross-platform solutions.
+
+Back-End Development: Advanced Node.js and Express.js for RESTful APIs, with GraphQL for efficient query handling.
+
+Database Management: Proficient in PostgreSQL and MongoDB for secure, scalable data solutions.
+
+Machine Learning & Deep Learning: Skilled in TensorFlow and Scikit-learn to develop predictive models and innovative AI-driven applications.
+
+System Design & SEO: Adept at architecting resilient systems and implementing SEO best practices for enhanced digital visibility.
+
+Linux Expertise: Proficient in Linux systems, enabling efficient server management, deployment, and development.
+
+CI/CD Practices: Experienced in designing and automating robust CI/CD pipelines for seamless integration and deployment.
+
+Containerization: Skilled in Docker for containerization, ensuring application consistency across environments and streamlining deployment processes.
+
+Committed to leveraging modern technologies to build transformative, future-ready solutions. Open to collaborative and challenging opportunities in software development, AI, and system design.
+
+Explore my portfolio on GitHub for a closer look at my projects, and connect with me on LinkedIn to discuss how we can innovate together!
 
 * ✉️  You can contact me at [shemavalentin@gmail.com](mailto:shemavalentin@gmail.com)
 * 🧠  I'm learning Machine Learning & AI
