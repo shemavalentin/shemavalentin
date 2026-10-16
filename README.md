@@ -12,19 +12,19 @@ Hello everyone ![](https://user-images.githubusercontent.com/18350557/176309783-
  **Observability & SRE:** CloudWatch, Prometheus, Grafana, SLO/SLI Management
  **Scripting:** Python, Bash
 
- ### Featured Open-Source Projects
+### Featured Open-Source Projects
 
-  #### [E-Recruitment Cloud Infrastructure](https://github.com/shemavalentin/utc-app-terraform)
-    * AWS multi-AZ infrastructure provisioned using modular Terraform.
-    * Features isolated VPC networking, ECS Fargate containerization, ALB, RDS PostgreSQL, CloudFront CDN, and Secrets Manager.
-
-#### [Training Management System - ECS CI/CD Pipeline](https://github.com/shemavalentin/ecs-cicd-pipeline)
+ #### [Training Management System - ECS CI/CD Pipeline](https://github.com/shemavalentin/ecs-cicd-pipeline)
     * Resilient cloud deployment architecture utilizing GitHub Actions, Amazon ECR, and AWS ECS.
     * Integrated operational notification infrastructure via Amazon SNS/SES with KMS encryption.
 
-#### [DevSecOps Pipeline & Infrastructure Automation](https://github.com/shemavalentin/petclic-cicd)
+ #### [DevSecOps Pipeline & Infrastructure Automation](https://github.com/shemavalentin/petclic-cicd)
     * End-to-end DevSecOps pipeline for Java/Spring Boot microservices.
     * Integrated SonarQube SAST code quality gates, HashiCorp Vault credential rotation, and JFrog Artifactory storage.
+
+ #### [E-Recruitment Cloud Infrastructure](https://github.com/shemavalentin/utc-app-terraform)
+    * AWS multi-AZ infrastructure provisioned using modular Terraform.
+    * Features isolated VPC networking, ECS Fargate containerization, ALB, RDS PostgreSQL, CloudFront CDN, and Secrets Manager.
 
 **Connect with me:**
   **LinkedIn:** [linkedin.com/in/niwebasa-valentin-678a3013a](https://www.linkedin.com/in/niwebasa-valentin-678a3013a/)
