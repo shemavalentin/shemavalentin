@@ -1,4 +1,4 @@
-Hello everyone ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Valentin NIWEBASA
+Hello everyone ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Valentin NIWEBASA
 ============================================================================================================================================
 
 **Senior Site Reliability & DevOps Engineer** building high-availability cloud infrastructure across AWS and Azure. Focused on Infrastructure as Code, container orchestration, zero-downtime CI/CD pipelines, and enterprise observability.
